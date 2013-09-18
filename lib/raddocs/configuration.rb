@@ -15,7 +15,7 @@ module Raddocs
 
     add_setting :docs_dir, :default => "docs"
     add_setting :docs_mime_type, :default => /text\/docs\+plain/
-    add_setting :api_name, :default => "Api Documentation"
+    add_setting :api_name, :default => "Eathalal Api Documentation"
     add_setting :include_bootstrap, :default => true
     add_setting :external_css, :default => []
 
